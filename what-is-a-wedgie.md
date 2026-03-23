@@ -1,4 +1,5 @@
 ---
+layout: default
 title: What is a Wedgie?
 parent: Definitions           # This links it to the parent page above
 nav_order: 1                  # First item under Definitions

@@ -7,9 +7,9 @@ description: The ultimate community resource for wedgie definitions, examples, t
 
 # Welcome to the Wedgie Knowledge Base
 
-This is your go-to hub for everything related to the wedgie community — built by enthusiasts, for enthusiasts.
+This site is a passion project by a wedgie enthusiast, for wedgie enthusiasts. This site aims to be a one-stop shop for everything wedgies, filling a gap in the community left by the decomissioning of sites like wedgiegirls.com
 
-Whether you're new to the scene or a seasoned pro, you'll find clear definitions, real-world examples, technique guides, community bios, safety advice, and useful links here.
+This site is very much a work in progress. As only an amateur web designer, pleae bare with me as I flesh it out. My plans are to combine resources, information, and community into a single place. 
 
 ## Quick Start Sections
 

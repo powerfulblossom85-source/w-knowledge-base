@@ -1,8 +1,16 @@
 title: Wedgie Knowledge Base
-description: The ultimate community resource for definitions, examples, techniques, bios, and more.
-theme: just-the-docs
+description: Community resource for wedgie definitions, examples, techniques, bios, safety tips, and more.
 
-# Navigation (you can expand this as you add pages)
-nav_order: 0
-has_toc: true
+remote_theme: just-the-docs/just-the-docs  # This loads the theme remotely
+
+plugins:
+  - jekyll-remote-theme  # Required for remote_theme to work on GitHub Pages
+
+# Enable navigation/sidebar globally
+nav_enabled: true          # ← This is often missing; turns on side menu everywhere
 search_enabled: true
+
+# Optional but recommended
+color_scheme: auto         # or "dark" / "light"
+aux_links:
+  GitHub Repo: https://github.com/powerfulblossom85-source/w-knowledge-source

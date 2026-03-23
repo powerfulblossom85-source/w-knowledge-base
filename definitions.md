@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Definitions
 nav_order: 2                  # Appears after Home (which is nav_order: 1)
 has_children: true            # Tells Just the Docs this has sub-pages

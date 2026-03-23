@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Wedgie Knowledge Base
+description: The ultimate community resource for definitions, examples, techniques, bios, and more.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Navigation (you can expand this as you add pages)
+nav_order: 0
+has_toc: true
+search_enabled: true

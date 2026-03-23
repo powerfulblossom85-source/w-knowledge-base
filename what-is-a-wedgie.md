@@ -62,12 +62,4 @@ Here is a complete list of the most recognized techniques (compiled from communi
 
 Other less common but documented variations include Propeller, Blast, Scarecrow, and Self-Wedgie versions of almost any type.
 
-## Important Safety & Consent Note
-Wedgies should **always** be consensual and safe. Stop immediately if there is pain beyond mild discomfort, risk of choking (atomic/hanging), or tearing that could cause injury. Never perform on anyone who has not explicitly agreed. Check the upcoming **Safety & Consent** section for guidelines.
-
-## See Also
-- [Definitions](/definitions/) (main parent)
-- [Examples & Techniques](/examples/) (coming soon)
-- [Safety & Consent](/safety/) (coming soon)
-
 Last updated: March 2026

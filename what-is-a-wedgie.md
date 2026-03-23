@@ -9,10 +9,9 @@ nav_order: 1
 
 A **wedgie** is the act of pulling someone's underwear (typically from the back) upward with enough force to create a wedging effect between the buttocks. It can range from playful to more intense variations and is found in pranks, schoolyard humor, and consensual adult communities.
 
-## Common Characteristics
+## Characteristics
 - Involves underwear being yanked upward (briefs, boxers, thongs, etc.)
-- Can be self-administered, given by another person, or part of group activity
-- Intensity depends on force, underwear type, and variation used
+- Can be self-administered, or given by another person
 
 ## Common Wedgie Techniques & Variations
 

@@ -11,3 +11,10 @@ plugins:
 search_enabled: true
 nav_enabled: true  # optional but good for sidebar
 color_scheme: auto
+
+theme: just-the-docs
+title: Wedgie Knowledge Base
+description: The ultimate community resource
+
+layout: home
+nav_order: 1
